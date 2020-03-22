@@ -4,6 +4,6 @@ public class HomeResource {
 
 	public static void main(String[] args) {
 
-		HomeResource obj = new HomeResource();
+		HomeResource obj1 = new HomeResource();
 	}
 }
