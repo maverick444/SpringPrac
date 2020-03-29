@@ -7,3 +7,4 @@ public class HomeResource {
 		HomeResource obj2 = new HomeResource();
 	}
 }
+
